@@ -1,16 +1,13 @@
-## Hi there 👋
+## 이충안
 
-<!--
-**leegwichan/leegwichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 주어진 리소스로 큰 효과를 내는 방법을 고민합니다.
+- 현재 가장 중요한 것을 정하고 실행하는데 집중합니다.
+- 유지 보수가 용이한 방식을 고민합니다.
 
-Here are some ideas to get you started:
+### History
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 우아한테크코스 - 웹 백엔드 6기 (2024.02 ~ 2024.11)
+  - [활동 기록](https://github.com/leegwichan/woowa-course)
+- 코드스테이츠 Software Engineering Bootcamp 39기 Backend 과정 (2022.04 ~ 2022.10)
+- 광운대학교 전자바이오물리학과 (2018.03 ~ )
+  - 수학과 부전공
