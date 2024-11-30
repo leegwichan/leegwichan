@@ -12,4 +12,4 @@
 
 ### Projects
 
-- 땅콩 - 가벼운 주제로 친구들과 즐기는 단체 대화주제 제공 서비스 [URL](https://ddangkong.kr/) [Github](https://github.com/woowacourse-teams/2024-ddangkong)
+- 땅콩 - 가벼운 주제로 친구들과 즐기는 단체 대화주제 제공 서비스 (2024.07 ~ ) [URL](https://ddangkong.kr/) [Github](https://github.com/woowacourse-teams/2024-ddangkong)
