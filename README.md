@@ -11,5 +11,5 @@
 
 ### Projects
 
-- 땅콩 - 가벼운 주제로 친구들과 즐기는 단체 대화주제 제공 서비스 (2024.07 ~ ) [URL](https://ddangkong.kr/) [Github](https://github.com/woowacourse-teams/2024-ddangkong)
-- 토론 타이머 - 토론 진행을 위한 타이머 서비스 (2024. 12 ~ ) [Github (backend)](https://github.com/debate-timer/debate-timer-be)
+- 땅콩 - 가벼운 주제로 친구들과 즐기는 단체 대화주제 제공 서비스 (24.07 ~ 25.01) [URL](https://ddangkong.kr/) [Github](https://github.com/woowacourse-teams/2024-ddangkong)
+- 토론 타이머 - 토론 진행을 위한 타이머 서비스 (24.12 ~ ) [URL](https://www.debate-timer.com/) [Github (backend)](https://github.com/debate-timer/debate-timer-be)
