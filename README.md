@@ -1,4 +1,4 @@
-[포트폴리오](https://brass-thrush-37b.notion.site/1913d31d255380f99874eaef6d071bb6?pvs=74)
+[**포트폴리오**](https://brass-thrush-37b.notion.site/1913d31d255380f99874eaef6d071bb6?pvs=74)
 
 ## About Me 👋
 
