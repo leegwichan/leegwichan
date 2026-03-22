@@ -140,9 +140,12 @@
 | JDBC 라이브러리 구현하기 | JDBC 라이브러리<br/>트랜젝션     | [java-jdbc](https://github.com/leegwichan/java-jdbc)     | Step1: [PR](https://github.com/woowacourse/java-jdbc/pull/665)<br/>Step2: [PR](https://github.com/woowacourse/java-jdbc/pull/749)<br/>Step3: [PR](https://github.com/woowacourse/java-jdbc/pull/779)<br/>Step4: [PR](https://github.com/woowacourse/java-jdbc/pull/869) |
 | DB 복제와 캐시       | 복제 지연<br/>캐시            | [java-coupon](https://github.com/leegwichan/java-coupon) | Step1: [PR](https://github.com/woowacourse/java-coupon/pull/37)<br/>Step2: [PR](https://github.com/woowacourse/java-coupon/pull/105)                                                                                                                                    |
 
-## 발표 및 기술 공유
+## 기타
 
 ### [10분 테코톡] 커찬의 디자인 패턴 ([Youtube 영상](https://www.youtube.com/watch?v=SDhMExSPge0))
 - **디자인 패턴의 본질과 가치:** 패턴을 '반복되는 문제에 대한 검증된 해결책'이자 '개발자 간의 원활한 커뮤니케이션 도구'라는 것을 공유했습니다..
 - **How를 넘어선 Why의 중요성:** 단순히 패턴의 구현 방법을 암기하는 것을 넘어, 패턴의 기반 원리와 도입 시 발생하는 트레이드오프(장단점)를 깊이 이해해야 함을 강조했습니다.
 - **문제 해결 중심의 태도 제안:** 무분별한 패턴 도입을 경계하고, "현재의 문제 상황에 이 패턴이 정말 적합한가?"를 스스로 판단하여 코드를 개선하는 주도적인 태도의 중요성을 전달했습니다.
+
+### 수료증
+- [수료증 사진](./woowa_course_certificate.jpg)
